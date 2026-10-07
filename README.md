@@ -30,9 +30,9 @@ The website is responsive and works across different screen sizes:
 - Mobile
 - Tablet
 
-🎯 Purpose of the Project
+## Purpose of the Project
 
-## This project was created as a practice project to improve my skills in:
+This project was created as a practice project to improve my skills in:
 
 HTML structure
 CSS styling
@@ -50,7 +50,7 @@ Aspiring Full Stack Developer | MERN Stack Learner
 
 ## 🔗 Project
 
-Travel Explorer – Responsive Travel Website
+https://viji-tech08.github.io/travel-explore-clone/
 
 ## Thank You
 
